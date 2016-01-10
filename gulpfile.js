@@ -15,8 +15,6 @@ var gulp = require('gulp'),
 gulp.task('js-deps', function () {
   gulp.src([
     './public/bower_components/jquery/dist/jquery.min.js',
-    './public/bower_components/lodash/lodash.min.js',
-    './public/bower_components/moment/min/moment.min.js',
     './public/bower_components/angular/angular.min.js',
     './public/bower_components/angular-ui-router/release/angular-ui-router.min.js',
     './public/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js'
