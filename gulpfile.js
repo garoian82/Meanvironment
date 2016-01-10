@@ -50,9 +50,9 @@ gulp.task('css-deps', function () {
 
 gulp.task('js', function () {
   var baseDir = __dirname + '/public/javascripts',
-    outputDir = __dirname + '/build/js',
-    outputFilename = 'app.js',
-    env = envfile.parseFileSync('.env');
+      outputDir = __dirname + '/build/js',
+      outputFilename = 'app.js',
+      env = envfile.parseFileSync('.env');
 
   gulp.src([
     baseDir + "/*module.js",
