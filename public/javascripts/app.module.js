@@ -5,9 +5,8 @@
 	angular.module('app', ['ui.router', 'ui.bootstrap'])
 		.config(function ($stateProvider, $urlRouterProvider, $httpProvider, storageProvider) {
 
-			$urlRouterProvider.otherwise('/');
+			$urlRouterProvider.otherwise('/home');
 
 			$stateProvider
 		});
-
 }());
