@@ -31,7 +31,10 @@
 ### What else is included? Well, I'll tell you!
 <ul>
 	<li><code>gulpfile.js</code> that creates a <code>build/</code> folder (already ignored in <code>.gitignore</code>)</li>
-	<li><code>angular ui router</code> for maping the states of your application. There is a predefined <code>angular.module</code> along with a <code>home</code> state in <code>public/javascripts/app.module.js</code></li>
+	<li><code>angular ui router</code> for maping the states of your application. 
+		<ul>
+			<li>predefined <code>angular.module</code> along with a <code>home</code> state in <code>public/javascripts/app.module.js</code></li>
+		</ul></li>
 	<li></li>
 	<li></li>
 	<li></li>
