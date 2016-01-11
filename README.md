@@ -6,7 +6,7 @@
 <pre>
 	<code>
 		$ git clone https://github.com/garoian82/meanvironment
-		$ cd Meanvironment
+		$ cd meanvironment
 		$ npm install (in some cases may have to use sudo)
 		$ gulp
 	</code>
