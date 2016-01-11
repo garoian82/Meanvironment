@@ -26,6 +26,4 @@
 	<li>gulp packages (checkout your <code>node_modules/</code> folder. There are a few different gulp packages included.</li>
 	<li>lodash</li>
 	<li>jshint</li>
-	<li></li>
-	<li></li>
 </ul>
