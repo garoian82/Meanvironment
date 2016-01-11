@@ -25,7 +25,6 @@
 	<li>mongoose</li>
 	<li>gulp packages (checkout your <code>node_modules/</code> folder. There are a few different gulp packages included.</li>
 	<li>lodash</li>
-	<li>jshint</li>
 </ul>
 
 ### What else is included? Well, I'll tell you!
@@ -37,8 +36,6 @@
 			<li>predefined <code>controller</code> and <code>index.html</code> in <code>public/javascripts/home</code></li>
 		</ul></li>
 	<li>LESS!!! there is a <code>less</code> file already set up for you in <code>public/less</code> It is also included in the <code>gulpfile.js</code> for your build!</li>
-	<li></li>
-	<li></li>
 </ul>
 
 ### Disclaimer:
