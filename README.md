@@ -42,3 +42,5 @@
 ### Disclaimer:
 
 <p>Please feel free to tweak this clone to your own specifications. This is just to get you started on your MEAN development journey! Happy coding!</p>
+
+<p>This clone also favors the <a href="https://github.com/johnpapa/angular-styleguide">angular style guide by John Papa</a></p>
