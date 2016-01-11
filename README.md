@@ -28,6 +28,15 @@
 	<li>jshint</li>
 </ul>
 
+### What else is included? Well, I'll tell you!
+<ul>
+	<li>gulpfile.js that creates a <code>build/</code> folder (already ignored in <code>.gitignore</code> it also runs the `deps.js`)</li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
 ### Disclaimer:
 
 <p>Please feel free to tweak this clone to your own specifications. This is just to get you started on your MEAN development journey! Happy coding!</p>
