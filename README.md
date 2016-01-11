@@ -27,3 +27,7 @@
 	<li>lodash</li>
 	<li>jshint</li>
 </ul>
+
+### Disclaimer:
+
+<p>Please feel free to tweak this clone to your own specifications. This is just to get you started on your MEAN development journey! Happy coding!</p>
