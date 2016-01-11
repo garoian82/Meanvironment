@@ -36,7 +36,7 @@
 			<li>predefined <code>angular.module</code> along with a <code>home</code> state in <code>public/javascripts/app.module.js</code></li>
 			<li>predefined <code>controller</code> and <code>index.html</code> in <code>public/javascripts/home</code></li>
 		</ul></li>
-	<li></li>
+	<li>LESS!!! there is a <code>less</code> file already set up for you in <code>public/less</code></li>
 	<li></li>
 	<li></li>
 </ul>
