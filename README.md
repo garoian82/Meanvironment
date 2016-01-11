@@ -1,5 +1,5 @@
 # Welcome to Meanvironment!
-### Meanvironment is a boilerplate environment to begin development with the MEAN stack!
+##### Meanvironment is a boilerplate environment to begin development with the MEAN stack!
 
 <p>Just run these steps in your terminal:</p>
 
