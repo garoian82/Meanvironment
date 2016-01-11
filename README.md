@@ -1,6 +1,7 @@
 # Welcome to Meanvironment!
+## Meanvironment is a boilerplate environment to begin development with the MEAN stack!
 
-<p>All you have to do is run this in your terminal:</p>
+<p>Just run these steps in your terminal:</p>
 
 <pre>
 	<code>
