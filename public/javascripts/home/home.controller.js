@@ -9,6 +9,7 @@
 
 			vm.greeting = 'Welcome to Meanvironment!';
 			vm.manifesto = 'Now go create something awesome!';
-			
+			vm.maintained = 'garoian82';
+
 		});
 }());
