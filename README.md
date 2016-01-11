@@ -34,6 +34,7 @@
 	<li><code>angular ui router</code> for maping the states of your application. 
 		<ul>
 			<li>predefined <code>angular.module</code> along with a <code>home</code> state in <code>public/javascripts/app.module.js</code></li>
+			<li>predefined <code>controller</code> and <code>index.html</code> in <code>public/javascripts/home</code></li>
 		</ul></li>
 	<li></li>
 	<li></li>
