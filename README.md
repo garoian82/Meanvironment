@@ -12,4 +12,9 @@
 </pre>
 
 <p>Then, redirect your browser to:</p>
-<code>localhost:3000</code>
+
+<pre>
+	<code>
+		localhost:3000
+	</code>
+</pre>
