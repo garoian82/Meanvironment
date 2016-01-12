@@ -20,7 +20,7 @@
 	</code>
 </pre>
 
-### Meanvironment includes the following popular NPM packages:
+### Meanvironment includes the following stuff pre-loaded for your development pleasure:
 <ul>
 	<li>Angular Js</li>
 	<li>Bootstrap</li>
