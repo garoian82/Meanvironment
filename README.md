@@ -39,7 +39,6 @@
 			<li>predefined <code>controller</code> and <code>index.html</code> in <code>public/javascripts/home</code></li>
 		</ul></li>
 	<li>LESS!!! there is a <code>less</code> file already set up for you in <code>public/less</code> It is also included in the <code>gulpfile.js</code> for your build!</li>
-	<li>Last but not least! <code>bootstrap</code> and <code>angular-bootstrap</code></li>
 </ul>
 
 ### Disclaimer:
