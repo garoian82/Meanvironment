@@ -22,9 +22,12 @@
 
 ### Meanvironment includes the following popular NPM packages:
 <ul>
+	<li>Angular Js</li>
+	<li>Bootstrap</li>
+	<li>Angular Bootstrap</li>
+	<li>Angular UI Router</li>
 	<li>mongoose</li>
 	<li>gulp packages (checkout your <code>node_modules/</code> folder. There are a few different gulp packages included.</li>
-	<li>lodash</li>
 </ul>
 
 ### What else is included? Well, I'll tell you!
